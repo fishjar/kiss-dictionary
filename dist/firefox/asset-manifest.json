@@ -1,0 +1,12 @@
+{
+  "popup.css": "/static/css/popup.css",
+  "popup.js": "/static/js/popup.js",
+  "options.css": "/static/css/options.css",
+  "options.js": "/static/js/options.js",
+  "background.js": "/static/js/background.js",
+  "content.js": "/static/js/content.js",
+  "static/media/material-icons.woff2": "/static/media/material-icons.woff2",
+  "content.html": "/content.html",
+  "options.html": "/options.html",
+  "popup.html": "/popup.html"
+}
