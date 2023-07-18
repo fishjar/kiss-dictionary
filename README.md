@@ -2,6 +2,8 @@
 
 一个简约的 [网页划词翻译扩展](https://github.com/fishjar/kiss-dictionary)。
 
+[kiss-dictionary.webm](https://github.com/fishjar/kiss-dictionary/assets/1157624/2c2567f5-3c58-45ff-8938-15faf0fc6353)
+
 ### 缘由
 
 网络上的划词翻译扩展很多，我也多年前就开发了自用的版本，但功能上已和自己需求有些出入。
@@ -27,7 +29,3 @@
   - [x] Google
   - [ ] Microsoft
   - [ ] OpenAI
-
-<video width="1280" height="720" controls>
-  <source src="https://raw.githubusercontent.com/fishjar/kiss-dictionary/master/kiss-dictionary.webm" type="video/webm">
-</video>
