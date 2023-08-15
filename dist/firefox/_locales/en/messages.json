@@ -1,8 +1,8 @@
 {
   "app_name": {
-    "message": "KISS Dictionary (by Gabe)"
+    "message": "KISS Dictionary"
   },
   "app_description": {
-    "message": "A simple dictionary extension"
+    "message": "A minimalist select word translation extension"
   }
 }
